@@ -1,2 +1,12 @@
-# BMI-Calculator-
-A simple desktop application that calculates BMI (Body Mass Index) using user-provided height and weight, built with Tkinter.
+# BMI Calculator
+
+A simple desktop application built with Tkinter that calculates Body Mass Index (BMI) based on user input for height and weight.
+
+## Features
+- Tkinter GUI
+- BMI calculation
+- Health category feedback (Underweight, Normal, Overweight, Obese)
+
+## How to Run
+```bash
+python bmi_calculator.py

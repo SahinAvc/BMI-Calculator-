@@ -9,4 +9,4 @@ A simple desktop application built with Tkinter that calculates Body Mass Index 
 
 ## How to Run
 ```bash
-python bmi_calculator.py
+python BMIcalculator.py
